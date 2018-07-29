@@ -2,7 +2,7 @@
 
 A set of generic Bootstrap4-based templates and plugins for the CMS Made Simple templating system.
 
-It provides a central *settings* file to easily change the template, and a few standard templates:
+It provides a central settings template to easily change the template as well as a few standard templates:
 
 * A triple-column layout for simple pages.
 * A nine-column layout for longer pages
